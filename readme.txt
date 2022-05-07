@@ -8,7 +8,7 @@ This script will need to be customized for each application.
 The flow data are saved from the Nortek Vectrino software with a base filename and a timestamp.
 The timestamp in the filename is important since it allows correlation between the stage location and velocity timeseries.
 
-Functionality to obtain flow statistics are contained in "adv_analysis.py". 
+Functionalities to obtain flow statistics are contained in "adv_analysis.py". 
 Data are despiked prior to analysis using the method of Nikora and Goring 1998.
 
 Example data is contained in the "example-data" directory.
